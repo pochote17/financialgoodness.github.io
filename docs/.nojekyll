@@ -1,0 +1,5 @@
+cd financialgoodness/docs
+touch .nojekyll
+git add .nojekyll
+git commit -m "Desactivar Jekyll"
+git push origin main
